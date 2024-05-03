@@ -1,0 +1,37 @@
+.x-table-container {
+    margin: 20px auto;
+    width: 80%;
+  }
+  
+  .x-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .x-table th, .x-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .x-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .buttons-container {
+    margin-bottom: 10px;
+  }
+  
+  .buttons-container button {
+    margin-right: 10px;
+    padding: 8px 16px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+  }
+  
+  .buttons-container button:hover {
+    background-color: #0056b3;
+  }
+  
